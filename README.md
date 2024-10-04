@@ -1,3 +1,67 @@
+<a name="readme-top"></a>
+
+<div align="center">
+
+  <br/>
+
+  <h3><b>Blog App</b></h3>
+
+</div>
+
+<!-- TABLE OF CONTENTS -->
+
+# 📗 Table of Contents
+
+- [📖 About the Project](#about-project)
+  - [🛠 Built With](#built-with)
+    - [Tech Stack](#tech-stack)
+    - [Key Features](#key-features)
+  - [🚀 Live Demo](#live-demo)
+- [💻 Getting Started](#getting-started)
+  - [Setup](#setup)
+  - [Prerequisites](#prerequisites)
+  - [Install](#install)
+  - [Usage](#usage)
+  - [Run tests](#run-tests)
+  - [Deployment](#triangular_flag_on_post-deployment)
+- [👥 Authors](#authors)
+- [🔭 Future Features](#future-features)
+- [🤝 Contributing](#contributing)
+- [⭐️ Show your support](#support)
+- [🙏 Acknowledgements](#acknowledgements)
+- [📝 License](#license)
+
+<!-- PROJECT DESCRIPTION -->
+
+# 📖 [Blog App] <a name="about-project"></a>
+
+**[Blog App]** is a project that uses a Single Page Application format and a custom or REST API to add blog on a page, so that a user can switch to a different pages without loading.
+
+## 🛠 Built With <a name="built-with"></a>
+-HTML
+-CSS
+-JavaScript
+-ReactJS
+
+### Key Features <a name="key-features"></a>
+
+- **[The project was built using ES6]**
+- **[Modules were imported/exported for the JavaScript]**
+- **[Webpack bundling was used]**
+- **[ReactJS environment was employed]**
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+<!-- - [Live Demo Link](https://math-magicians-app-52pm.onrender.com -->
+
+)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 💻 Getting Started <a name="getting-started"></a>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +132,52 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 👥 Authors <a name="authors"></a>
+
+👤 **Ismail Halliru Muhammad**
+
+- GitHub: [@githubhandle](https://github.com/yayaismaail)
+- Twitter: [@twitterhandle](https://mobile.twitter.com/IsmailhalliruM1)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/ismailhm)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- FUTURE FEATURES -->
+
+## 🔭 Future Features <a name="future-features"></a>
+
+- **[Add Google firebase for backend.]**
+- **[Addition of the pages]**
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/yayaismaail/react-blog-app/issues).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- SUPPORT -->
+
+## ⭐️ Show your support <a name="support"></a>
+
+Give a like if you like this project and kindly follow me using my social media handles
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I would like to thank my mentors and other friends who helped throughout my learning process
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<!-- LICENSE -->
+
+## 📝 License <a name="license"></a>
+
+This project is [MIT](https://github.com/yayaismaail/react-blog-app/blob/development/LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
