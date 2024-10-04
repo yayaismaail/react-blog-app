@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "id": "1",
+      "title": "Understanding JavaScript Closures",
+      "body": "A closure is the combination of a function and the lexical environment within which that function was declared...",
+      "author": "Alice Johnson"
+    },
+    {
+      "id": "2",
+      "title": "A Guide to Async/Await in JavaScript",
+      "body": "Async/Await makes asynchronous code easier to write and understand. It is syntactic sugar over promises...",
+      "author": "Bob Williams"
+    },
+    {
+      "id": "4",
+      "title": "Introduction to Web Accessibility",
+      "body": "Web accessibility means that websites, tools, and technologies are designed and developed so that people with disabilities can use them...",
+      "author": "Dana Brown"
+    },
+    {
+      "id": "c018",
+      "title": "My first Blog",
+      "body": "Thanks",
+      "author": "yayaismail"
+    }
+  ]
+}
