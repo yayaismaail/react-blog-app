@@ -1,0 +1,74 @@
+/* Create.css */
+.create {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .create h2 {
+    text-align: center;
+    color: #333;
+  }
+  
+  .create label {
+    display: block;
+    margin-bottom: 8px;
+    color: #555;
+    font-size: 18px;
+  }
+  
+  .create input, 
+  .create textarea, 
+  .create select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  
+  .create textarea {
+    height: 150px;
+    resize: vertical;
+  }
+  
+  .create button {
+    display: block;
+    width: 100%;
+    padding: 12px;
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    font-size: 18px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .create button:hover {
+    background-color: #0056b3;
+  }
+  
+  .create button:disabled {
+    background-color: #ccc;
+    cursor: not-allowed;
+  }
+  
+  .success-message {
+    text-align: center;
+    color: #28a745;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .error-message {
+    text-align: center;
+    color: #dc3545;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  

@@ -1,0 +1,23 @@
+/* Contacts.css */
+.contact {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f5f5f5;
+  }
+  
+  .contact a {
+    font-size: 18px;
+    text-decoration: none;
+    color: #fff;
+    background-color: #333;
+    padding: 10px 20px;
+    border-radius: 8px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .contact a:hover {
+    background-color: #555;
+  }
+  
