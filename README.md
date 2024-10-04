@@ -74,7 +74,7 @@ In the project directory, you can run:
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser,
-Open [npx json-server --watch database/database.json --port 8000](npx json-server --watch database/database.json --port 8000) to run custom or REST API
+Run [npx json-server --watch database/database.json --port 8000] to watch custom or REST API
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
